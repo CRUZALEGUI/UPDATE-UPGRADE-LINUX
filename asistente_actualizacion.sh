@@ -32,7 +32,7 @@ sudo apt upgrade
 usuario=$(whoami)
 salir() {
 echo " "
-echo "Gracias por la preferenia" $usuario
+echo "Gracias por la preferencia" $usuario
 exit 0
 }
 mostrar_menu() {
